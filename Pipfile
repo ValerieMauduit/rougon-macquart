@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 nltk = "*"
 pandas = "*"
+kwargs = "*"
 
 [dev-packages]
 
