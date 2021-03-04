@@ -1,63 +1,54 @@
 import os
 
+import kwargs as kwargs
 from nltk import word_tokenize
 from nltk.corpus import stopwords
 import pandas as pd
 
+from sets import MY_STOP_WORDS, PERSONNAGES, PONCTUATION
+
 
 def filtre_mots_importants(texte, langue='french', ponctuation=True, personnages=True):
-    stopWords = (
-        set(stopwords.words(langue)) |
-        {
-            'a', 'ainsi', 'alors',
-            'ça', 'car', 'cette', 'comme', "c'est",
-            'dit', 'donc', 'dont', "d'un", "d'une",
-            'elles',
-            'leurs',
-            'où',
-            'plus',
-            'quand', "qu'elle", "qu'il", "qu'on",
-            'sans', "s'en", "s'était", 'si',
-            'tous', 'tout', 'toute',
-        }
-    )
+    stopWords = (set(stopwords.words(langue)) | MY_STOP_WORDS)
     noms_persos = set()
     if ponctuation:
-        stopWords = (stopWords | {',', '"', '?', ';', '.', ':', '!', '—', '...', '«', '»', '(', ')', "'"})
+        stopWords = (stopWords | PONCTUATION)
     if personnages:
-        noms_persos = {
-            'Antoine', 'Aristide',
-            'Catherine', 'Charles',
-            'Félicité',
-            'Gervaise', 'Granoux',
-            'Hélène', 'Henri',
-            'Jean',
-            'Lantier', 'Lisa',
-            'M.', 'Marie', 'Marthe', 'Maxime', 'Miette', 'Mouret',
-            'Pascal', 'Pierre',
-            'Roudier',
-            'Sidonie', 'Silvère',
-            'Vuillet',
-        }
+        noms_persos = PERSONNAGES
     mots = word_tokenize(texte, language=langue)
     return [mot for mot in mots if ((mot.lower() not in stopWords) and (mot not in noms_persos))]
 
 
-def pretraitement_texte(fichier, **kwargs):
+def pretraitement_texte(fichier, filtre=True **kwargs):
     fileText = open(os.path.join('books', fichier), 'r')
     text = fileText.read()
     fileText.close()
 
     text = text.replace('…', '...').replace('’', "'").replace("'", "'")
-    mots = filtre_mots_importants(text, **kwargs)
+    if filtre:
+        mots = filtre_mots_importants(text, **kwargs)
+    else:
+        mots = word_tokenize(text, **kwargs)
+
     return pd.Series(mots).value_counts()
 
+# TODO: analyse des mots pour voir si je les prends en minuscules ou toujours en majuscules
+# TODO: passage de paramètres à vérifier
+# TODO: les n premiers mots si je retire le mot pour peu qu'il soit dans un autre top
+# TODO: tutorials nltk sur ce jeu de données
+# TODO: un fichier de prétraitement du texte :
+#      changer les caractères de merde / filtrer les mots à retirer /
+#      passer en minuscules tous les mots qui le mériteraient / tokénizer séparément /
+#      compter les fréquences ou occurences pour un seul texte
+# TODO: des utilitaires de comparaison de textes, séparés
+# TODO: répertoire en dur !
 
 def regroupement_statistiques(livres):
     # livres: list of text files names
     #
     # Output:
     # dataframe which index is made of words of all the texts, columns are books names and values are frequencies
+    # TODO: options garder ou pas 
     stats = pd.DataFrame()
     for titre in livres:
         comptage = pretraitement_texte(titre, personnages=True)
@@ -109,3 +100,4 @@ def mots_specifiques(statistiques):
 
 
 def top_uniques(text):
+    pass

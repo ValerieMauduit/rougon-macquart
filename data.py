@@ -22,6 +22,19 @@ noms00 = [
     'Tulettes', 'Valqueyras', 'Vemoux', 'Vernoux', 'Versailles', 'Vincennes', 'Viorne', 'Waterloo'
 ]
 
+persos00 = [
+    'Adélaïde', 'Alboise', 'André', 'Angèle', 'Antoine', 'Aristide', 'Blanche', 'Blériot', 'Bonaparte', 'Brunet',
+    'Brutus', 'Burgat', 'Béage', 'Canquoin', 'Carnavant', 'Cassoute', 'Catherine', 'Cause', 'Cavaignac', 'Chantegreil',
+    'Charles', 'Charpentier', 'Chavanoz', 'Civadière', 'Corbière', 'César', 'Dide', 'Draguignan', 'Dubruel', 'Eugène',
+    'Eulalie', 'Faverolles', 'Fine', 'Fouque', 'François', 'Félicité', 'Gavaudan', 'Gervaise', 'Graille', 'Granoux',
+    'Henri', 'Hercule', 'Hélène', 'Isidore', 'Jean', 'Judas', 'Justin', 'Jésus', 'Lacamp', 'Lantier', 'Lisa', 'Louis',
+    'Louis-Napoléon', 'Louis-Philippe', 'Lucullus', 'Léonidas', 'Macquart', 'Marie', 'Marthe', 'Massicot', 'Masson',
+    'Maxime', 'Miette', 'Mouret', 'Mourgue', 'Murdaran', 'Napoléon', 'Nazères', 'Nores', 'Oudinot', 'Pascal',
+    'Peirotte', 'Patience', 'Picou', 'Pierre', 'Piron', 'Poujols', 'Pruinas', 'Puech', 'Rengade', 'Romain', 'Rosa',
+    'Roudier', 'Rougon', 'Rougon-Macquart', 'Rousseau', 'Rébufat', 'Seille', 'Sicardot', 'Sidonie', 'Silvère', 'Touche',
+    'Toussaint', 'Ursule', 'Valqueyras', 'Vemoux', 'Vernoux', 'Vian', 'Vuillet', 'Zola'
+]
+
 # 01 = La Curée
 # 'La Curee (1871) Les Rougon-Macquart - Emile Zola.txt'
 
@@ -51,6 +64,24 @@ noms01 = [
     'Nevers', 'Nivernais', 'Nièvre', 'Paris', 'Plassans', 'Provence', 'Pérou', 'Rome', 'Saint-Cloud', 'Saint-Germain',
     'Saint-Ouen', 'Saint-Louis', 'Salpêtrière', 'Savigny', 'Seine', 'Sologne', 'Suresnes', 'Trocadéro', 'Trouville',
     'Trône', 'Tuileries', 'Vendôme', 'Venise', 'Versailles', 'Vincennes'
+]
+
+persos01 = [
+    'Adeline', 'Alexandre', 'Alsophila', 'Amélie', 'Angèle', 'Aristide', 'Arthur', 'Astorg', 'Aubertot', 'Baptiste',
+    'Baptistin', 'Blanche', 'Bonaparte', 'Brummel', 'Brébant', 'Béraud', 'Campana', 'Carlos', 'Chambertin', 'Chaplin',
+    'Charles', 'Charpentier', 'Charrier', 'Chibray', 'Christine', 'Clotilde', 'Cupidon', 'Cyclanthus', 'Céleste',
+    'Céphise', 'Diane', 'Dracena', 'Dracéna', 'Drouot', 'Dusautoy', 'Ernest', 'Espanet', 'Eugène', 'Euryales',
+    'Fasquelle', 'Florence', 'Georges', 'Gouraud', 'Guende', 'Gustave', 'Haffner', 'Haussmann', 'Helder', 'Henri',
+    'Hippolyte', 'Hupel', 'Hélène', 'Jacques', 'Jean', 'Junon', 'Jupiter', 'Lagache', 'Lambert', 'Lantier',
+    'Larsonneau', 'Lassouche', 'Lataniers', 'Laure', 'Lauwerens', 'Liriope', 'Louis', 'Louis-Philippe', 'Louise',
+    'Léonard', 'Mabille', 'Madeleine', 'Mahomet', 'Malesherbes', 'Maranta', 'Marcel', 'Mareuil', 'Marguerite', 'Maxime',
+    'Meinhold', 'Messaline', 'Michelin', 'Mignon', 'Montespan', 'Muller', 'Mussy', 'Müller', 'Napoléon', 'Narcisse',
+    'Olympe', 'Ovide', 'Paquita', 'Paros', 'Pascal', 'Pasiphaé', 'Payenne', 'Peletier', 'Phèdre', 'Pierre', 'Pierrot',
+    'Piron', 'Plutus', 'Pompadour', 'Pradier', 'Quisqualus', 'Ravenala', 'Quatre-vingt', 'Rougon', 'Rougon-Macquart',
+    'Rozan', 'Saccard', 'Saffré', 'Savigny', 'Saphir', 'Selim', 'Sicard', 'Sicardot', 'Sidonie', 'Simpson', 'Stanhopéa',
+    'Sternich', 'Stuarts', 'Suzanne', 'Sylvia', 'Sélaginelle', 'Tanghin', 'Tannhauser', 'Teisseire', 'Teissière',
+    'Tessière', 'Théramène', 'Thésée', 'Topaze', 'Tornélia', 'Tortoni', 'Touche', 'Toutain-Laroche', 'Toutin-Laroche',
+    'Trézène', 'Vanska', 'Victor', 'Vinci', 'Worms', 'Zola'
 ]
 
 # 02 = Le ventre de Paris
@@ -87,6 +118,20 @@ noms02 = [
     'Turbigo', 'mont Valérien', 'Vavin', 'Vernon', 'Viarmes', 'Vigan', 'York', 'Yvetot'
 ]
 
+persos02 = [
+    'Agnès', 'Alexandre', 'Anatole', 'Auguste', 'Augustine', 'Balthazar', 'Baratte', 'Berger', 'Bonaparte',
+    'Bourdonnais', 'Cadine', 'Caïn', 'Cendrillon', 'Chantemesse', 'Charentonneau', 'Charles', 'Charpentier', 'Charvet',
+    'Claire', 'Claude', 'Clémence', 'Coquillière', 'Compas', 'Cossonnerie', 'Courtalon', 'Croquemitaine', 'Cuvier',
+    'Cécile', 'Florent', 'François', 'Gavard', 'Gervais', 'Godebœuf', 'Gonjeon', 'Gradelle', 'Grenéta', 'Guillout',
+    'Gutenberg', 'Hue', 'Hutin', 'Jean', 'Jean-Jacques', 'Joseph', 'Jules', 'Lacaille', 'Landois', 'Lantier',
+    'Laquerrière', 'Lebigre', 'Lecœur', 'Lisa', 'Lisette', 'Logre', 'Loret', 'Louis-Philippe', 'Louise', 'Léda',
+    'Léhudier', 'Léon', 'Léonce', 'Macquart', 'Madame', 'Madeleine', 'Mademoiselle', 'Manoury', 'Marcel', 'Marie',
+    'Marjolin', 'Marque', 'Mauconseil', 'Monsieur', 'Morny', 'Mouron', 'Muche', 'Murillo', 'Méhudin', 'Napoléon',
+    'Oblin', 'Pauline', 'Philippe', 'Pierre', 'Pierrot', 'Quenu', 'Quenu-Gradelle', 'Robine', 'Rose', 'Rougon-Macquart',
+    'Roule', 'Rousseau', 'Roustan', 'Rubens', 'Saccard', 'Saccard…', 'Sarriet', 'Sarriette', 'Sauval', 'Taboureau',
+    'Thérèse', 'Valérien', 'Vauvilliers', 'Vavin', 'Verlaque', 'Vernon', 'Vigan', 'Zola'
+]
+
 # 03 = La conquête de Plassans
 # 'La Conquete de Plassans Les Rougon-Macquar - Emile Zola.txt'
 
@@ -102,6 +147,17 @@ noms03 = [
     'Sorbonne', 'Taravelle', 'Toulon', 'Tuileries', 'Valence…', 'Viorne'
 ]
 
+persos03 = [
+    'Abel', 'Alexandre', 'Alphonse', 'Ambroise', 'Anacréon', 'Angeline', 'Angéline', 'Antoine', 'Aurélie', 'Balande',
+    'Bergasse', 'Berthe', 'Bourdeu', 'Bourrette', 'Canquoin', 'Chardon', 'Charpentier', 'Chevillottes', 'Compan',
+    'Condamin', 'Delangre', 'Dide', 'Désirée', 'Eugène', 'Eusèbe', 'Faujas', 'Faverolles', 'Fenil', 'François',
+    'Félicité', 'Gautier', 'Guillaume', 'Helder', 'Honoré', 'Horace', 'Jean', 'Jésus', 'Lagrifoul', 'Lieutaud',
+    'Louis-Philippe', 'Lucien', 'Macquart', 'Maffre', 'Marthe', 'Maurin', 'Mouret', 'Mousseau', 'Octave', 'Octavie',
+    'Olympe', 'Ovide', 'Paloque', 'Peirotte', 'Pierre', 'Polichinelle', 'Porquier', 'Péqueur', 'Rose', 'Rougon',
+    'Rougon-Macquart', 'Rousselot', 'Saturnin', 'Seille', 'Serge', 'Surin', 'Séverin', 'Taravelle', 'Trouche',
+    'Valqueyras', 'Zola'
+]
+
 # 04 = La faute de l'Abbé Mouret
 # "La Faute de l'abbe Mouret Les Rougon-Macqu - Emile Zola.txt"
 
@@ -112,6 +168,15 @@ noms04 = [
     'les Artaud', 'Artaud', 'Babel', 'Bethléem', 'Espagne', 'Gomorrhe', 'Israël', 'Japon', 'Mahon', 'Marseille',
     'Normandie', 'Palud', 'Olivettes', 'Plassans', 'Rouen', 'Saint-Eutrope', 'Saint-Marc', 'Saint-Saturnin', 'Seille',
     'Suisse', 'Tulettes', 'Valence', 'Versailles', 'Viorne'
+]
+
+persos04 = [
+    'Abraham', 'Albine', 'Alexandre', 'Archangias', 'Babet', 'Bambousse', 'Bellarmin', 'Bonaventure', 'Bouvier',
+    'Brichet', 'Béage', 'Caffin', 'Canteleu', 'Catherine', 'Charpentier', 'Corbière', 'Craisson', 'David', 'Désirée',
+    'Fortuné', 'Félicité', 'Guyot', 'Holbach', 'Ignace', 'Isaac', 'Jacob', 'Jean', 'Jeanbernat', 'Joseph', 'Laurent',
+    'Lisa', 'Lise', 'Louis', 'Macquart', 'Mademoiselle', 'Mahon', 'Marc', 'Maria', 'Marie', 'Mathieu', 'Mesdemoiselles',
+    'Michel', 'Miette', 'Monsieur', 'Moumou', 'Mouret', 'Octave', 'Pascal', 'Puget', 'Rachel', 'Rorbacher', 'Rosalie',
+    'Rose', 'Rougon', 'Rougon-Macquart', 'Rébecca', 'Sara', 'Serge', 'Siméon', 'Thomas', 'Vincent', 'Zola'
 ]
 
 # 05 = Son Excellence Eugène Rougon
@@ -153,6 +218,26 @@ noms05 = [
     'Villardière', 'Ville-en-Blaisais'
 ]
 
+persos05 = [
+    'Adèle', 'Amélie', 'Antonia', 'Araris', 'Auguste', 'Aumale', 'Bade', 'Badinguet', 'Bailly', 'Balbi', 'Batignolles',
+    'Beulin', 'Beulin-d', 'Billecoq', 'Billy', 'Blachet', 'Blanche', 'Bonaparte', 'Bouchard', 'Bourbon', 'Brambilla',
+    'Bressuire', 'Brava', 'Brutus', 'Buquin-Lecomte', 'Béjuin', 'Campenon', 'Casimir', 'Cavour', 'Charbonnel',
+    'Chardon', 'Charles', 'Charpentier', 'Chevalier', 'Chevassu', 'Christ', 'Clorinda', 'Clorinde', 'Colbert',
+    'Colombe', 'Combelot', 'Correur', 'Coulonges', 'César', 'Delacroix', 'Delestang', 'Desvignes', 'Diane', 'Dieu',
+    'Doullens', 'Duchesne', 'Escorailles', 'Eugène', 'Eulalie', 'Faverolles', 'Firmin', 'Flaminio', 'Florence', 'Foy',
+    'Félicité', 'Garumna', 'Gaston', 'Gaudibert…', 'Georges', 'Gesvres', 'Gilquin', 'Glatigny', 'Guisarde', 'Guttin',
+    'Guyot-Laplanche', 'Gèvres', 'Henri', 'Henriette', 'Herminie', 'Horace', 'Huguenin', 'Isidore', 'Jacob', 'Jacques',
+    'Jalaguier', 'Jobelin', 'Jules', 'Junon', 'Jupiter', 'Jusselin', 'Jérôme', 'Kahn', 'Lamberthon', 'Lambessa',
+    'Langlade', 'Laocoon', 'Lardenois', 'Lebeau', 'Legrain', 'Leturc', 'Ligeris', 'Llorentz', 'Lorentz', 'Louis',
+    'Louis-Philippe', 'Luigi', 'Lycurgue', 'Léon', 'Léonora', 'Machiavel', 'Madeleine', 'Marbeuf', 'Marengo', 'Marie',
+    'Marsy', 'Martineau', 'Mathilde', 'Mazarine', 'Merle', 'Minerve', 'Mirabeau', 'Montbrison', 'Mélanie', 'Napoléon',
+    'Nougarède', 'Néro', 'Olympe', 'Orchère', 'Peletier', 'Pierre-François', 'Plouguern', 'Poizat', 'Pompadour',
+    'Pozzo', 'Périer', 'Péronne', 'Reuthlinguer', 'Rhenus', 'Rhodanus', 'Rochart', 'Rodriguez', 'Rougon',
+    'Rougon-Macquart', 'Rouquette', 'Rusconi', 'Sade', 'Salneuve', 'Sanquirino', 'Seille', 'Sequana', 'Solon',
+    'Staderino', 'Talleyrand', 'Testanière', 'Thouars', 'Théodore', 'Tournelle', 'Vaneau', 'Vanneau', 'Victor-Emmanuel',
+    'Villardière', 'Virginie', 'Voltaire', 'Vénus', 'Véronique', 'Zola'
+]
+
 # 06 = L'Assommoir
 # 'L\'Assommoir (1877) Les Rougon-Macquart - Emile Zola.txt'
 
@@ -187,6 +272,9 @@ noms06 = [
     'Villette', 'Vincennes', 'Viorne'
 ]
 
+persos06 = [
+]
+
 # 07 = Une page d'amour
 # "Une page d'amour Les Rougon-Macquart - Emile Zola.txt"
 
@@ -208,6 +296,9 @@ noms07 = [
     'Saint-Augustin', 'Saint-Germain', 'tour Saint-Jacques', 'Saint-Pétersbourg', 'Saint-Sulpice',
     'Saint-Vincent de Paul', 'Saint-Vincent-de-Paul', 'Sainte-Clotilde', 'Saxe', 'Saône', 'Seine', 'Suisse',
     'Trocadéro', 'Trouville', 'Tuileries', 'Tulettes', 'Turquie', 'Vendôme', 'Venise', 'Versailles', 'Yeddo'
+]
+
+persos07 = [
 ]
 
 # 08 = Nana
@@ -240,6 +331,9 @@ noms08 = [
     'mont Valérien', 'Venise', 'Villiers', 'Vincennes', 'Viroflay'
 ]
 
+persos08 = [
+]
+
 # 09 = Pot-Bouille
 # 'Pot-Bouille (1882) Les Rougon-Macquart - Emile Zola.txt'
 
@@ -257,16 +351,17 @@ voies09 = [
 ]
 noms09 = [
     'Teltow', 'Grèce', 'Alençon', 'Amérique', 'Andelys', 'Angleterre', 'Antilles', 'Basses-Alpes', 'Batignolles',
-    'Bourse', 'Bretagne', 'Brésil', 'Clermont', 'Comédie-Française', 'Enghien', 'Espagne', 'Paris',
-    'Fontainebleau', 'Fossés-Saint-Victor', 'France', 'Halles', 'Hôtel-de-Ville', 'Inde', 'Italie', 'Lille', 'Londres',
-    'Louvre', 'Luxembourg', 'Lyon', 'la Madeleine', 'Madrid', 'Marseille', 'Mexique', 'Midi', 'Michodière',
-    'Montmartre',
+    'Bourse', 'Bretagne', 'Brésil', 'Clermont', 'Comédie-Française', 'Enghien', 'Espagne', 'Paris', 'Fontainebleau',
+    'Fossés-Saint-Victor', 'France', 'Halles', 'Hôtel-de-Ville', 'Inde', 'Italie', 'Lille', 'Londres', 'Louvre',
+    'Luxembourg', 'Lyon', 'la Madeleine', 'Madrid', 'Marseille', 'Mexique', 'Midi', 'Michodière', 'Montmartre',
     'Moulineaux', 'Mulhouse', 'Notre-Dame', 'Opéra', 'Opéra-Comique', 'Palais de Justice', 'Palais-Royal', 'Panthéon',
-    'Passy', 'Plassans', 'Pontoise', 'Provence', 'Père-Lachaise', 'Pérou', 'Reims', 'Rome',
-    'Saint-Gervais', 'Saint-Honoré', 'Saint-Lazare', 'Saint-Marc', 'Saint-Pétersbourg',
-    'Saint-Roch', 'Saint-Sulpice', 'Sainte-Anne', 'Seine', 'Sorbonne', 'Tibre',
-    'Tournon', 'Trouville', 'Tuileries', 'Var', 'Vaucluse', 'Versailles', 'Vichy', 'Villeneuve',
-    'Villeneuve-Saint-Georges', 'Volga'
+    'Passy', 'Plassans', 'Pontoise', 'Provence', 'Père-Lachaise', 'Pérou', 'Reims', 'Rome', 'Saint-Gervais',
+    'Saint-Honoré', 'Saint-Lazare', 'Saint-Marc', 'Saint-Pétersbourg', 'Saint-Roch', 'Saint-Sulpice', 'Sainte-Anne',
+    'Seine', 'Sorbonne', 'Tibre', 'Tournon', 'Trouville', 'Tuileries', 'Var', 'Vaucluse', 'Versailles', 'Vichy',
+    'Villeneuve', 'Villeneuve-Saint-Georges', 'Volga'
+]
+
+persos09 = [
 ]
 
 # 10 = Au Bonheur des Dames
@@ -275,44 +370,70 @@ noms09 = [
 voies10 = [
 
     'quartier de la Madeleine', 'passage Choiseul', 'Place Clichy', 'passage Sainte-Anne', 'rue des Moineaux',
-    'rue des Moulins', 'rue Saint-Roch', 'place de l’Opéra', 'rue Gaillon',
-    'Rue Neuve-des-Petits-Champs', 'rue Cuvier', 'rue de la Michodière', 'rue de Rivoli', 'place de la Bastille',
-    'Rue Neuve-Saint-Augustin', 'jardin des Tuileries', 'rue Neuve-saint-Augustin', 'place de la Trinité',
-    'rue Neuve-des-Petits-Champs', 'forêt de Saint-Germain', 'rue Richelieu', 'rue de Grammont', 'boulevard de Clichy',
-    'rue de la Chaussée-d’Antin', 'rue de Sèvres', 'rue de Choiseul', 'rue Louis-le-Grand', 'rue d’Argenteuil',
-    'rue d’Antin', 'place Clichy', 'rue Croix-des-Petits-Champs', 'Jardin des Tuileries', 'gare de Vincennes',
-    'Rue de Rivoli', 'bois de Vincennes', 'rue Réaumur', 'bois de Vivet', 'rue Monsigny', 'rue Poissonnière',
-    'bois de Verrières', 'rue des Orties', 'rue du Mail', 'rue Neuve-Saint-Augustin', 'rue d’Alger',
-    'place de la Bourse', 'rue Blanche', 'place Gaillon', 'quartier Saint-Roch', 'rue Port-Mahon',
-    'rue du Dix-Décembre', 'faubourg du Temple', 'Valognes', 'Rue de la Michodière', 'porte Gaillon',
-    'rue Sainte-Anne', 'rue Saint-Honoré', 'forêt de Bondy', 'gare Saint-Lazare'
+    'rue des Moulins', 'rue Saint-Roch', 'place de l’Opéra', 'rue Gaillon', 'Rue Neuve-des-Petits-Champs', 'rue Cuvier',
+    'rue de la Michodière', 'rue de Rivoli', 'place de la Bastille', 'Rue Neuve-Saint-Augustin', 'jardin des Tuileries',
+    'rue Neuve-saint-Augustin', 'place de la Trinité', 'rue Neuve-des-Petits-Champs', 'forêt de Saint-Germain',
+    'rue Richelieu', 'rue de Grammont', 'boulevard de Clichy', 'rue de la Chaussée-d’Antin', 'rue de Sèvres',
+    'rue de Choiseul', 'rue Louis-le-Grand', 'rue d’Argenteuil', 'rue d’Antin', 'place Clichy',
+    'rue Croix-des-Petits-Champs', 'Jardin des Tuileries', 'gare de Vincennes', 'Rue de Rivoli', 'bois de Vincennes',
+    'rue Réaumur', 'bois de Vivet', 'rue Monsigny', 'rue Poissonnière', 'bois de Verrières', 'rue des Orties',
+    'rue du Mail', 'rue Neuve-Saint-Augustin', 'rue d’Alger', 'place de la Bourse', 'rue Blanche', 'place Gaillon',
+    'quartier Saint-Roch', 'rue Port-Mahon', 'rue du Dix-Décembre', 'faubourg du Temple', 'Valognes',
+    'Rue de la Michodière', 'porte Gaillon', 'rue Sainte-Anne', 'rue Saint-Honoré', 'forêt de Bondy',
+    'gare Saint-Lazare'
 ]
 noms10 = [
     'Albi', 'Alençon', 'Alger', 'Alpes', 'Alsace', 'Amérique', 'Angers', 'Angleterre', 'Arabie', 'Argenteuil',
     'Bastille', 'Batignolles', 'Besançon', 'Bicêtre', 'Bondy', 'Bougival', 'Bourse', 'Briquebec', 'Bruges', 'Bruxelles',
-    'Cambrai', 'Chablis', 'Chambéry', 'Champs-Élysées', 'la Chapelle', 'Chartres', 'Cherbourg', 'Choiseul',
-    'Châtillon', 'Clichy', 'Constantine', 'Cotentin', 'Daghestan', 'Danube', 'Diarbékir', 'Dunkerque',
-    'Elbeuf', 'Espagne', 'Europe', 'Flandres', 'Fontenailles', 'France', 'Franche-Comté', 'Gard', 'Grenoble', 'Halles',
-    'Hispahan', 'Indes', 'Invalides', 'Irlande', 'Isère', 'Italie', 'Japon', 'Joinville', 'Karamanie', 'Kermancha',
-    'Kircheer', 'Kurdistan', 'Langres', 'Libourne', 'Limoges', 'Louvre', 'Lyon', 'la Madeleine',
-    'Madras', 'Marne', 'la Mecque', 'Meudon', 'Mexique', 'Michodière', 'Midi', 'Montmartre', 'Montpellier',
-    'Neuilly', 'Nice', 'Nogent', 'Norwège', 'Notre-Dame', 'Opéra', 'Orient', 'Orléans', 'Palais',
-    'Palais-Royal', 'Panthéon', 'Paris', 'Perpignan', 'Perse', 'Plassans', 'Poitou', 'Pologne', 'Port-Mahon',
-    'Port-aux-Vins', 'Prusse', 'Rambouillet', 'Rhône', 'Rivoli', 'Rouen', 'Réaumur', 'Saint-Germain',
-    'Saint-Honoré', 'Saint-Lazare', 'Saint-Lô', 'Saint-Roch', 'Sainte-Anne', 'Saxe', 'Schoumaka', 'Seine-et-Oise',
-    'Smyrne', 'Suède', 'Syrie', 'Sèvres', 'Tarbes', 'Temple', 'Toulouse',
-    'Tuileries', 'Turin', 'Turquie', 'Tyrol', 'Téhéran', 'Valognes', 'Venise', 'Verrières', 'Versailles',
-    'Vivet', 'Waterloo', 'Yvetot', 'Gheurdès', 'Coula'
+    'Cambrai', 'Chablis', 'Chambéry', 'Champs-Élysées', 'la Chapelle', 'Chartres', 'Cherbourg', 'Choiseul', 'Châtillon',
+    'Clichy', 'Constantine', 'Cotentin', 'Daghestan', 'Danube', 'Diarbékir', 'Dunkerque', 'Elbeuf', 'Espagne', 'Europe',
+    'Flandres', 'Fontenailles', 'France', 'Franche-Comté', 'Gard', 'Grenoble', 'Halles', 'Hispahan', 'Indes',
+    'Invalides', 'Irlande', 'Isère', 'Italie', 'Japon', 'Joinville', 'Karamanie', 'Kermancha', 'Kircheer', 'Kurdistan',
+    'Langres', 'Libourne', 'Limoges', 'Louvre', 'Lyon', 'la Madeleine', 'Madras', 'Marne', 'la Mecque', 'Meudon',
+    'Mexique', 'Michodière', 'Midi', 'Montmartre', 'Montpellier', 'Neuilly', 'Nice', 'Nogent', 'Norwège', 'Notre-Dame',
+    'Opéra', 'Orient', 'Orléans', 'Palais', 'Palais-Royal', 'Panthéon', 'Paris', 'Perpignan', 'Perse', 'Plassans',
+    'Poitou', 'Pologne', 'Port-Mahon', 'Port-aux-Vins', 'Prusse', 'Rambouillet', 'Rhône', 'Rivoli', 'Rouen', 'Réaumur',
+    'Saint-Germain', 'Saint-Honoré', 'Saint-Lazare', 'Saint-Lô', 'Saint-Roch', 'Sainte-Anne', 'Saxe', 'Schoumaka',
+    'Seine-et-Oise', 'Smyrne', 'Suède', 'Syrie', 'Sèvres', 'Tarbes', 'Temple', 'Toulouse', 'Tuileries', 'Turin',
+    'Turquie', 'Tyrol', 'Téhéran', 'Valognes', 'Venise', 'Verrières', 'Versailles', 'Vivet', 'Waterloo', 'Yvetot',
+    'Gheurdès', 'Coula'
 ]
+
+persos10 = [
+    'Albert', 'Aristide', 'Aurélie', 'Baudu', 'Baugé', 'Bavoux', 'Blanche', 'Bobin', 'Boudu', 'Bouratel', 'Bourdelais',
+    'Bourdoncle', 'Bourras', 'Boutarel', 'Bouthemont', 'Boves', 'Briquebec', 'Bullier', 'Bédoré', 'Cabin', 'Campion',
+    'Caroline', 'Chadeuil', 'Charles', 'Charpentier', 'Chopin', 'Clara', 'Colomban', 'Cornaille', 'Cugnot', 'César',
+    'Daghestan', 'Dagobert', 'Delacroix', 'Deleuze', 'Deloche', 'Denise', 'Desforges', 'Deslignières', 'Dumonteil',
+    'Duvillard', 'Désirée', 'Edmond', 'Ernestine', 'Fanny', 'Fasquelle', 'Favier', 'Finet', 'Fontenailles', 'Frédéric',
+    'Gaillon', 'Gaujean', 'Geneviève', 'Gheurdès', 'Grammont', 'Grognet', 'Gras', 'Guibal', 'Guiball', 'Hartmann',
+    'Hauchecorne', 'Henri', 'Henriette', 'Hutin', 'Hédouin', 'Héloïse', 'Iris', 'Jean', 'Joseph', 'Jouve', 'Lacassagne',
+    'Laure', 'Levasseur', 'Lhomme', 'Liénard', 'Louis', 'Luc', 'Lucien', 'Madame', 'Mademoiselle', 'Mareuil',
+    'Marguerite', 'Marty', 'Matignon', 'Mesdemoiselles', 'Messieurs', 'Mignot', 'Monsieur', 'Monsigny', 'Mouret',
+    'Naud', 'Octave', 'Pauline', 'Paul', 'Pierre', 'Piot', 'Poult', 'Powell', 'Prunaire', 'Quinette', 'Rigolles',
+    'Robineau', 'Rougon-Macquart', 'Thérèse', 'Vabre', 'Vadon', 'Valentine', 'Vallagnosc', 'Valognes', 'Vanpouille',
+    'Victor', 'Vinçard', 'Vivet', 'Zola']
 
 # 11 = La joie de vivre
 # 'La Joie de vivre Les Rougon-Macquart - Emile Zola.txt'
 
 voies11 = [
-
+    'route de Port-en-Bessin', 'route de Verchemont', 'route d’Arromanches', 'quartier latin', 'quartier des Halles'
 ]
-noms11 = [
 
+noms11 = [
+    'Algérie', 'Amérique', 'Arromanches', 'Australie', 'Bayeux', 'Bonneville', 'Boutigny', 'Caen', 'Caraïbes',
+    'Carlsbad', 'Cayenne', 'Cherbourg', 'Clermont', 'Cotentin', 'France', 'Gomorrhe', 'Havre', 'Inde', 'Marseille',
+    'Midi', 'Nord', 'Océanie', 'Paris', 'Pont-l', 'Port-en-Bessin', 'Rouen', 'Saint-Eustache', 'Saint-Lô', 'Saxe',
+    'Seine', 'Sodome', 'Sorbonne', 'Verchemont', 'Vichy', 'Vésuve'
+]
+
+persos11 = [
+    'Adèle', 'Ambroise', 'Bouillaud', 'Bouland', 'Boutigny', 'Cazenove', 'Chanteau', 'Charpentier', 'Claude',
+    'Cruveilhier', 'Cuche', 'Davoine', 'Delorme', 'Delormé', 'Eugénie', 'Gonin', 'Gradelle', 'Herbelin', 'Horteur',
+    'Houtelard', 'Lazare', 'Liardin', 'Lisa', 'Longuet', 'Louise', 'Louisette', 'Loulou', 'Léonie', 'Madame',
+    'Madeleine', 'Mademoiselle', 'Malivoire', 'Martin', 'Mathieu', 'Minouche', 'Monsieur', 'Mouret', 'Naudet', 'Octave',
+    'Paré', 'Paul', 'Pauline', 'Prouane', 'Quenu', 'Rambaud', 'René', 'Robinson', 'Rougon-Macquart', 'Saccard',
+    'Schopenhauer', 'Simonnot', 'Thibaudier', 'Thérèse', 'Tourmal', 'Vignière', 'Véronique', 'Wagner', 'Werther', 'Zola'
 ]
 
 # 12 = Germinal
@@ -325,6 +446,9 @@ noms12 = [
 
 ]
 
+persos12 = [
+]
+
 # 13 = L'oeuvre
 # "L'OEuvre Les Rougon-Macquart - Emile Zola.txt"
 
@@ -333,6 +457,9 @@ voies13 = [
 ]
 noms13 = [
 
+]
+
+persos13 = [
 ]
 
 # 14 = La terre
@@ -345,6 +472,9 @@ noms14 = [
 
 ]
 
+persos14 = [
+]
+
 # 15 = Le rêve
 # 'Le Reve Les Rougon-Macquart - Emile Zola.txt'
 
@@ -353,6 +483,9 @@ voies15 = [
 ]
 noms15 = [
 
+]
+
+persos15 = [
 ]
 
 # 16 = La bête humaine
@@ -365,6 +498,9 @@ noms16 = [
 
 ]
 
+persos16 = [
+]
+
 # 17 = L'argent
 # "L'Argent Les Rougon-Macquart - Emile Zola.txt"
 
@@ -373,6 +509,9 @@ voies17 = [
 ]
 noms17 = [
 
+]
+
+persos17 = [
 ]
 
 # 18 = La débâcle
@@ -385,6 +524,9 @@ noms18 = [
 
 ]
 
+persos18 = [
+]
+
 # 19 = Le docteur Pascal
 # 'Le Docteur Pascal Les Rougon-Macquart - Emile Zola.txt'
 
@@ -393,6 +535,9 @@ voies19 = [
 ]
 noms19 = [
 
+]
+
+persos19 = [
 ]
 
 # TODO: Changer les apostrophes et les 3 petits points
