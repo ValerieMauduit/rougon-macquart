@@ -273,6 +273,19 @@ noms06 = [
 ]
 
 persos06 = [
+    'Adèle', 'Amanda', 'Anna', 'Antiope', 'Apollon', 'Auguste', 'Augustine', 'Badingue', 'Badinguet', 'Balthazar',
+    'Banban', 'Baptiste', 'Baquet', 'Baudequin', 'Bazouge', 'Bec-Salé', 'Belhomme', 'Bernard', 'Bibi', 'Bibi-la-Gaieté',
+    'Bibi-la-Grillade', 'Bijard', 'Blanc', 'Blavin', 'Boche', 'Boit-sans-Soif', 'Bonaparte', 'Boncœur', 'Borgia',
+    'Bénard', 'Béranger', 'Cadet-Cassis', 'Caroline', 'Charles', 'Charpentier', 'Claude', 'Clémence', 'Cléry',
+    'Colombe', 'Coquenard', 'Coquet', 'Coudeloup', 'Coupeau', 'Courtille', 'Cudorge', 'Célestine', 'Dagobert', 'Dédèle',
+    'Eugène', 'Eulalie', 'Fatma', 'Fifine', 'Follebiche', 'François', 'Gaillon', 'Gaudron', 'Gervaise', 'Godichon',
+    'Goujet', 'Gueule-d', 'Henri', 'Henriette', 'Héloïse', 'Jeanneton', 'Josse', 'Lamartine', 'Lantier', 'Lantimêche',
+    'Lehongre', 'Lerat', 'Linguerlot', 'Lisa', 'Lise', 'Lorilleux', 'Louis', 'Léonie', 'Macquart',
+    'Madeleine-la-Désolée', 'Madinier', 'Marie-bon-Bec', 'Marsoullier', 'Mes-Bottes', 'Meyer', 'Mille', 'Nana',
+    'Murillo', 'Napoléon', 'Noé', 'Palissy', 'Pascal', 'Pauline', 'Picard', 'Pied-de-Céleri', 'Pierre', 'Polonceau',
+    'Péquignot', 'Pétesec', 'Queue-de-Vache', 'Queue-de-vache', 'Remanjou', 'Robert', 'Rougon-Macquart', 'Rubens',
+    'Sophie', 'Thomas', 'Thérèse', 'Tinette', 'Titien', 'Titreville', 'Tord-Boyaux', 'Troupier', 'Trouve', 'Valançay',
+    'Victor', 'Virginie', 'Zidore', 'Zola', 'Zouzou'
 ]
 
 # 07 = Une page d'amour
@@ -299,6 +312,15 @@ noms07 = [
 ]
 
 persos07 = [
+    'Aurélie', 'Balzac', 'Bergeret', 'Berthier', 'Bignon', 'Billy', 'Blainville', 'Blanche', 'Bodin', 'Brava',
+    'Canivet', 'Charpentier', 'Chavigny', 'Chermette…', 'Deberle', 'Ernestine', 'Florence', 'Franklin', 'Fétu',
+    'Grandjean', 'Grandval…', 'Guignard', 'Guiraud', 'Henri', 'Hélène', 'Ivanhoé', 'Jean', 'Jeanne', 'Juliette',
+    'Junon', 'Jésus', 'Lacour', 'Lecomte', 'Letellier', 'Levasseur', 'Louis', 'Lucas', 'Lucien', 'Léry', 'Madame',
+    'Madeleine', 'Mademoiselle', 'Malignon', 'Maman', 'Manguelin', 'Marguerite', 'Maria', 'Marie', 'Mathilde',
+    'Monsieur', 'Morizot', 'Mouret', 'Musset', 'Mère', 'Noëmi', 'Pascal', 'Paul', 'Pauline', 'Perdiguet', 'Pichon',
+    'Pierre', 'Pierrot', 'Pompadour', 'Père', 'Rambaud', 'Raynouard', 'Robinot', 'Rosalie', 'Rougon', 'Rougon-Macquart',
+    'Rouvet', 'Rowena', 'Rébecca', 'Scott', 'Smithson', 'Sophie', 'Taitbout', 'Tissot', 'Valentine', 'Vincent',
+    'Walter', 'Worms', 'Yeddo', 'Zola', 'Zéphyrin'
 ]
 
 # 08 = Nana
@@ -332,6 +354,28 @@ noms08 = [
 ]
 
 persos08 = [
+    'Abraham', 'Achille', 'Amélie', 'Anglars', 'Augusta', 'Auguste', 'Bade', 'Barbier', 'Barillot', 'Baudu',
+    'Beaurecueil', 'Beaurivage', 'Becker', 'Besnus', 'Beuville', 'Bijou', 'Bismarck', 'Blanche', 'Boche', 'Boissier',
+    'Bonaparte', 'Bordenave', 'Bordes', 'Bosc', 'Bouche-de-Velours', 'Boutarel', 'Boule-Noire', 'Bron', 'Brébant',
+    'Bréda', 'Bullier', 'Burne', 'Bébé', 'Cabiroche', 'Cardinet', 'Caroline', 'Catherine', 'Chambertin', 'Chambord',
+    'Chamont', 'Chantereau', 'Charles', 'Charpentier', 'Chezelle', 'Chezelles', 'Chouard', 'Choue', 'Clarisse',
+    'Corbreuse', 'Coromandel', 'Cossard', 'Courtille', 'César', 'Dagobert', 'Daguenet', 'Dampierre', 'Daumont',
+    'Decker', 'Denis', 'Deslignac', 'Diane', 'Drouard', 'Duchesse', 'Estelle', 'Falamoise', 'Faloise', 'Fauchery',
+    'Fauchey', 'Fernande', 'Feydeau', 'Figaro', 'Fontan', 'Foucarmont', 'Fougeray', 'Francis', 'François', 'Gaga',
+    'Ganymède', 'Georges', 'Gresham', 'Gumières', 'Géraldine', 'Haussmann', 'Hector', 'Henri', 'Horn', 'Hugon',
+    'Hélène', 'Héquet', 'Iris', 'Irma', 'Isaac', 'Isabelle', 'Jacqueline', 'Joncquoy', 'Jonquier', 'Joseph', 'Josse',
+    'Jouffroy', 'Jules', 'Julien', 'Juliette', 'Junon', 'Jupiter', 'Labordette', 'Labruyère', 'Lamafoise', 'Lamb',
+    'Latinville', 'Laure', 'Lenore', 'Lerat', 'Lili', 'Louis', 'Louis-Philippe', 'Louise', 'Louiset', 'Lucy', 'Lulu',
+    'Lusignan', 'Léa', 'Léon', 'Léonide', 'Léoville', 'Mabille', 'Madeleine', 'Mafaloise', 'Maloir', 'Maria',
+    'Mathilde', 'Mauriac', 'Meursault', 'Mignon', 'Mignotte', 'Mimi', 'Minerve', 'Mosnier', 'Mouche', 'Muffat',
+    'Méchain', 'Mélusine', 'Nana', 'Napoléon', 'Nazar-Eddin', 'Neptune', 'Octave', 'Ollivier', 'Olympe', 'Oscar',
+    'Parmentier', 'Pasquier', 'Patti', 'Paul', 'Pauline', 'Peletier', 'Peters', 'Philippe', 'Phébus', 'Piedefer',
+    'Piédefer', 'Pluton', 'Polonceau', 'Pomaré', 'Pompadour', 'Potier', 'Prullière', 'Richelieu', 'Robert',
+    'Rochefoucauld', 'Rochefoucault', 'Rose', 'Rossini', 'Rougemont', 'Rougon-Macquart', 'Sabine', 'Satin', 'Simonne',
+    'Sivry', 'Souvigny', 'Spirit', 'Steiner', 'Stewart', 'Taitbout', 'Talma', 'Tardiveau', 'Tatan', 'Tavernier',
+    'Théophile', 'Thérèse', 'Tricon', 'Truth', 'Valaque', 'Valerio', 'Valérien', 'Vandeuvres', 'Vaublanc', 'Venot',
+    'Verdier', 'Vernet', 'Victor', 'Victor-Emmanuel', 'Victorine', 'Villiers', 'Violaine', 'Vulcain', 'Vénus', 'Wagner',
+    'Weber', 'Xavier', 'Zizi', 'Zola', 'Zoé'
 ]
 
 # 09 = Pot-Bouille
@@ -362,6 +406,19 @@ noms09 = [
 ]
 
 persos09 = [
+    'Achille', 'Adèle', 'Alexandre…', 'Alfred', 'Alphonse', 'Amélie', 'Androclès', 'André', 'Angèle', 'Auguste',
+    'Bachelard', 'Azor', 'Balzac', 'Banne', 'Beethoven', 'Benedic', 'Bernheim', 'Berthe', 'Bibi', 'Billault', 'Blanche',
+    'Bocquet', 'Bonaparte', 'Bonnaud', 'Béranger', 'Camille', 'Campardon', 'Caroline', 'Charbotel', 'Charpentier',
+    'Chassagne', 'Chateaubriand', 'Chavignat', 'Chopin', 'Clarisse', 'Clotilde', 'Clémence', 'Créquy', 'Cérès',
+    'Dambreville', 'Deleuze', 'Desmarquay', 'Dewinck', 'Dickens', 'Domergue', 'Durantin', 'Duveyrier', 'Eugénie',
+    'Fanny', 'Fifi', 'Foyot', 'Françoise', 'Gaillon', 'Garibaldi', 'Gasparine', 'George', 'Godot-de-Mauroy', 'Gourd',
+    'Grammont', 'Grétry', 'Gueulin', 'Gustave', 'Hector', 'Henri', 'Hippolyte', 'Honoré', 'Hortense', 'Hédouin',
+    'Isidore', 'Jocelyn', 'Joseph', 'Joserand', 'Josserand', 'Juillerat', 'Jules', 'Julie', 'Juzeur', 'Jésus',
+    'Lamartine', 'Lilitte', 'Lisa', 'Louhette', 'Louis', 'Louise', 'Lucullus', 'Léon', 'Madeleine', 'Marie', 'Mauduit',
+    'Mazas', 'Mignon', 'Mouret', 'Mozart', 'Narcisse', 'Octave', 'Pichon', 'Pincé', 'Rachel', 'Rameau', 'Raymonde',
+    'Renaudin', 'Saint-Roch', 'Richelieu', 'Rose', 'Rougon-Macquart', 'Rouher', 'Saint-Anges', 'Saint-Bris', 'Sand',
+    'Saturnin', 'Théodore', 'Théophile', 'Tournon', 'Trublot', 'Vabre', 'Valentine', 'Valérie', 'Vaugelade', 'Verdier',
+    'Victoire', 'Voltaire', 'Vuillaume', 'Vénus', 'Zola', 'Zémire'
 ]
 
 # 10 = Au Bonheur des Dames
@@ -440,13 +497,36 @@ persos11 = [
 # 'Germinal Les Rougon-Macquart - Emile Zola.txt'
 
 voies12 = [
-
+    'porte de l’Avantage', 'descente d’Audierne', 'route de Montsou', 'route de Réquillart', 'chemin de Vandame',
+    'chemin de Marchiennes', 'gare de Marchiennes', 'ruelle de Réquillart', 'cours de l’École des Mines',
+    'route de Joiselle', 'chemin de Beaugnies', 'chemin de Joiselle', 'route de Vandame', 'pont Magache',
+    'chemin de Réquillart', 'forêt de Vandame', 'rue de la Goutte', 'pont de la Scarpe', 'route de Marchiennes'
 ]
 noms12 = [
-
+    'Amérique', 'Angleterre', 'Anzin', 'Ardennes', 'Arras', 'Audierne', 'Avignon', 'Beaugnies', 'Beaumont', 'Belgique',
+    'Belleville…', 'Borains', 'Borinage', 'Bretagne', 'Calais', 'Chamblay', 'Cocagne', 'Cologne', 'Cougny', 'Crimée',
+    'Croix-de-Pierre', 'Côte-Verte', 'Douai', 'Europe', 'Feutry-Cantel', 'Fleurance', 'Fourche-aux-Bœufs', 'Forges',
+    'France', 'Genève', 'Hainaut', 'Hennebeau', 'Herbes-Rousses', 'Hoton', 'Inde', 'Jenard', 'Joircd e', 'Joiselle',
+    'Lille', 'Londres', 'Marchiennes', 'Marles', 'Marseille', 'Maugrétout', 'Midi', 'Montoire', 'Montsou', 'Moscou',
+    'Orient', 'Ostende', 'Paris', 'Pas-de-Calais', 'Picardie', 'Piolaine', 'Plan-des-Dames', 'Plogof', 'Pologne',
+    'Plâtrières', 'Pont-l', 'Preuilly', 'Provence', 'Pré-des-Vaches', 'Quatre-Chemins', 'Rentre', 'Russie', 'Réquillar',
+    'Réquillart', 'Saint-Pétersbourg', 'Saint-Thomas', 'Saint-Éloi', 'Sainte-Barbe', 'Saut-du-Loup', 'Sodome',
+    'Sonneville', 'Valenciennes', 'Valençay', 'Voreux'
 ]
 
 persos12 = [
+    'Achille', 'Alzire', 'Annouchka', 'Bakounine', 'Bas-de-Soie', 'Bleuze', 'Bon-Joyeux', 'Bonnemort', 'Bouteloup',
+    'Brûlé', 'Buchy', 'Bébert', 'Casimir', 'Catherine', 'Charles', 'Charpentier', 'Chaval', 'Chicot', 'Cinq-Paumes',
+    'Combe', 'Cornille', 'Cougny', 'Cron', 'Cruchot', 'Crèvecœur', 'Crépin', 'Cécile', 'Cérès', 'Dansaert', 'Darwin',
+    'Davy', 'Deneulin', 'Desrumaux', 'Dutilleul', 'Désirée', 'Empereur', 'Estelle', 'Eugène', 'Fauquenoix', 'Fauvelle',
+    'Feutry-Cantel', 'Francis', 'Félicien', 'Gagebois', 'Gaston-Marie', 'Grégoire', 'Guillaume', 'Hennebeau', 'Henri',
+    'Hippolyte', 'Honorine', 'Honoré', 'Jean-Bart', 'Jeanlin', 'Jeanne', 'Jenard', 'Jules', 'Karl', 'Lasalle',
+    'Lantier', 'Legoujeux', 'Lenfant', 'Lepalmec', 'Lerenard', 'Levaque', 'Louis', 'Louis-Philippe', 'Lucie', 'Lydie',
+    'Lénore', 'Léon', 'Madeleine', 'Magache', 'Maheu', 'Maheude', 'Maigrat', 'Marx', 'Maugrétout', 'Mirou', 'Mouque',
+    'Mouquet', 'Mouquette', 'Mélanie', 'Napoléon', 'Nicolas', 'Négrel', 'Paul', 'Philomène', 'Pierron', 'Pierronne',
+    'Pierrot', 'Piquette', 'Pluchart', 'Proudhon', 'Quandieu', 'Ranvier', 'Rasseneur', 'Richomme', 'Rose',
+    'Rougon-Macquart', 'Roussie', 'Sauvagnat…', 'Souvarine', 'Tartaret', 'Thébaïde', 'Tison', 'Touché', 'Vandaine',
+    'Vandame', 'Vanderhaghen', 'Verdonck', 'Victoire', 'Vincent', 'Zacharie', 'Zola'
 ]
 
 # 13 = L'oeuvre
